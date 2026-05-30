@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyquizzer"
-version = "0.0.0"
+version = "0.0.5"
 description = "Dynamic questions with automatic correction."
 authors = ["BjornFJohansson <bjornjobb@gmail.com>"]
 license = "BSD"
